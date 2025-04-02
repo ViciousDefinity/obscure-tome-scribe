@@ -77,10 +77,10 @@ function App() {
     };
 
     const handleLogin = async () => {
-        console.log('Login clicked:', { username, password, rememberMe }); // Debug start
+        console.log('Login button clicked:', { username, password, rememberMe });
         try {
             const response = await apiCall('post', 'http://localhost:8000/api/login/', { username, password });
-            console.log('Login response:', response.data); // Debug success
+            console.log('Login response:', response.data);
             const newToken = response.data.access;
             setToken(newToken);
             setRefreshToken(response.data.refresh);
@@ -95,7 +95,7 @@ function App() {
             }
             await fetchCampaigns();
         } catch (error) {
-            console.error('Login error:', error.response?.data || error.message); // Debug failure
+            console.error('Login error:', error.response?.data || error.message);
             alert('Login failed: ' + (error.response?.data?.detail || 'Unknown error'));
             setToken('');
             setRefreshToken('');
