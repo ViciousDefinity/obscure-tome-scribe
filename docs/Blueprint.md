@@ -14,7 +14,7 @@
 9. **Code Verification**: Request current file links or contents if unsure of code state.
 10. **Test Maintenance**: Update tests (e.g., `App.test.js`) alongside feature/bug fixes; aim for 7/10 robustness.
 11. **User Guidance**: Provide exact steps (e.g., “Open VS Code, paste at line 50”) assuming minimal dev knowledge.
-12. **File Requests**: Ask for specific file links (e.g., `App.js`) if blueprint links are outdated or unclear.
+12. **File Requests**: Ask for needed files via links if unclear.
 13. **Context Management**: Start new chat if context limit warning appears; user provides latest blueprint link to resume.
 
 ## Project Files
@@ -73,20 +73,19 @@
 - **Grok**: Only per new chat, not per response; memory resets between chats.
 
 ### Git Setup
-- **User**: Requested setup in Markdown, then switched to plain steps.
-- **Grok**: Provided steps: install git, init repo, add/commit files, create GitHub repo, push.
-- **User**: Hit “dubious ownership” error at `git add .`.
+- **User**: Requested setup, hit “dubious ownership” error at `git add .`.
 - **Grok**: Fixed with `git config --global --add safe.directory`.
 - **User**: Hit “author identity unknown” error at `git commit`.
 - **Grok**: Fixed with `git config --global user.email/name`.
 - **User**: Confirmed step 4 success, moved to step 5.
-- **Grok**: Suggested `obscure-tome-scribe` as working title; outlined steps 5-9.
-- **User**: Noted all steps done, asked what’s next.
-- **Grok**: Suggested sharing blueprint link to start development.
+- **Grok**: Suggested `obscure-tome-scribe`; outlined steps 5-9.
+- **User**: Asked about “commit” meaning.
+- **Grok**: Clarified `git commit` vs. saving; user completed setup.
 
-### Blueprint Update
-- **User**: Noted project file links missing, shared current link: [https://raw.githubusercontent.com/ViciousDefinity/obscure-tome-scribe/refs/heads/main/docs/Blueprint.md].
-- **Grok**: Updated blueprint with real links from `ViciousDefinity/obscure-tome-scribe`.
+### Development Kickoff
+- **User**: Shared blueprint link, noted placeholder links.
+- **Grok**: Updated blueprint with real links (this version).
+- **User**: Confirmed workflow, ready to start.
 
 ## Conversation Summary (2025-03-25 - 2025-04-02)
 ### Bugs Fixed (Pre-Chat)
@@ -94,7 +93,8 @@
 - Regression: Login broken (2025-04-01), token not set, `AggregateError` in tests.
 ### Progress (This Chat)
 - Defined workflow: blueprint as hub, GitHub for code, links for context.
-- Set up git locally, resolved ownership/identity errors, pushed to `ViciousDefinity/obscure-tome-scribe`.
+- Set up git repo, resolved ownership/identity errors, pushed to `ViciousDefinity/obscure-tome-scribe`.
+- Updated blueprint with real file links.
 
 ## To-Do List (TDL)
 1. **Fix Login**: Update `handleLogin` to use `apiCall`, set token, mock in tests.
@@ -118,5 +118,5 @@
 - **Campaigns Not Rendering**: UI stuck at login screen, `fetchCampaigns` not called or fails silently.
 
 ## Next Step
-- **User**: Update `docs/Blueprint.md` with this version, commit, push, then share link with task (e.g., “Blueprint: [link]. Fix login”).
-- **Grok**: Fetch files via links, provide `handleLogin` snippet, update blueprint.
+- **User**: Apply login fix, commit/push, test locally, report back.
+- **Grok**: Provide `handleLogin` fix, update blueprint with results.
