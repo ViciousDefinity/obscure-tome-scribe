@@ -18,18 +18,18 @@
 13. **Context Management**: Start new chat if context limit warning appears; user provides latest blueprint link to resume.
 
 ## Project Files
-- **Blueprint**: [https://raw.githubusercontent.com/yourusername/obscure-tome-scribe/main/docs/Blueprint.md]
+- **Blueprint**: [https://raw.githubusercontent.com/ViciousDefinity/obscure-tome-scribe/main/docs/Blueprint.md]
 - **Backend**:
-  - `models.py`: [https://raw.githubusercontent.com/yourusername/obscure-tome-scribe/main/backend/api/models.py]
-  - `serializers.py`: [https://raw.githubusercontent.com/yourusername/obscure-tome-scribe/main/backend/api/serializers.py]
-  - `views.py`: [https://raw.githubusercontent.com/yourusername/obscure-tome-scribe/main/backend/api/views.py]
-  - `urls.py`: [https://raw.githubusercontent.com/yourusername/obscure-tome-scribe/main/backend/api/urls.py]
-  - `settings.py`: [https://raw.githubusercontent.com/yourusername/obscure-tome-scribe/main/backend/backend/settings.py]
-  - `requirements.txt`: [https://raw.githubusercontent.com/yourusername/obscure-tome-scribe/main/backend/requirements.txt]
+  - `models.py`: [https://raw.githubusercontent.com/ViciousDefinity/obscure-tome-scribe/main/backend/api/models.py]
+  - `serializers.py`: [https://raw.githubusercontent.com/ViciousDefinity/obscure-tome-scribe/main/backend/api/serializers.py]
+  - `views.py`: [https://raw.githubusercontent.com/ViciousDefinity/obscure-tome-scribe/main/backend/api/views.py]
+  - `urls.py`: [https://raw.githubusercontent.com/ViciousDefinity/obscure-tome-scribe/main/backend/api/urls.py]
+  - `settings.py`: [https://raw.githubusercontent.com/ViciousDefinity/obscure-tome-scribe/main/backend/backend/settings.py]
+  - `requirements.txt`: [https://raw.githubusercontent.com/ViciousDefinity/obscure-tome-scribe/main/backend/requirements.txt]
 - **Frontend**:
-  - `App.js`: [https://raw.githubusercontent.com/yourusername/obscure-tome-scribe/main/frontend/src/App.js]
-  - `App.test.js`: [https://raw.githubusercontent.com/yourusername/obscure-tome-scribe/main/frontend/src/App.test.js]
-  - `package.json`: [https://raw.githubusercontent.com/yourusername/obscure-tome-scribe/main/frontend/package.json]
+  - `App.js`: [https://raw.githubusercontent.com/ViciousDefinity/obscure-tome-scribe/main/frontend/src/App.js]
+  - `App.test.js`: [https://raw.githubusercontent.com/ViciousDefinity/obscure-tome-scribe/main/frontend/src/App.test.js]
+  - `package.json`: [https://raw.githubusercontent.com/ViciousDefinity/obscure-tome-scribe/main/frontend/package.json]
 
 ## Current State
 ### Backend
@@ -81,10 +81,12 @@
 - **Grok**: Fixed with `git config --global user.email/name`.
 - **User**: Confirmed step 4 success, moved to step 5.
 - **Grok**: Suggested `obscure-tome-scribe` as working title; outlined steps 5-9.
+- **User**: Noted all steps done, asked what’s next.
+- **Grok**: Suggested sharing blueprint link to start development.
 
 ### Blueprint Update
-- **User**: Requested granular blueprint, note on working title.
-- **Grok**: This document—max detail, all chat history, file specifics.
+- **User**: Noted project file links missing, shared current link: [https://raw.githubusercontent.com/ViciousDefinity/obscure-tome-scribe/refs/heads/main/docs/Blueprint.md].
+- **Grok**: Updated blueprint with real links from `ViciousDefinity/obscure-tome-scribe`.
 
 ## Conversation Summary (2025-03-25 - 2025-04-02)
 ### Bugs Fixed (Pre-Chat)
@@ -92,7 +94,7 @@
 - Regression: Login broken (2025-04-01), token not set, `AggregateError` in tests.
 ### Progress (This Chat)
 - Defined workflow: blueprint as hub, GitHub for code, links for context.
-- Set up git locally, resolved ownership/identity errors.
+- Set up git locally, resolved ownership/identity errors, pushed to `ViciousDefinity/obscure-tome-scribe`.
 
 ## To-Do List (TDL)
 1. **Fix Login**: Update `handleLogin` to use `apiCall`, set token, mock in tests.
@@ -116,5 +118,5 @@
 - **Campaigns Not Rendering**: UI stuck at login screen, `fetchCampaigns` not called or fails silently.
 
 ## Next Step
-- **User**: Finish GitHub setup (steps 5-9), push repo, share blueprint link (e.g., “Blueprint: [link]. Fix login”).
+- **User**: Update `docs/Blueprint.md` with this version, commit, push, then share link with task (e.g., “Blueprint: [link]. Fix login”).
 - **Grok**: Fetch files via links, provide `handleLogin` snippet, update blueprint.
