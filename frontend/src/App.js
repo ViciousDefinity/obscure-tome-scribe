@@ -78,11 +78,11 @@ function App() {
 
     const handleLogin = async () => {
         try {
-            const response = await axios.post('http://localhost:8000/api/login/', { username, password });
-            setToken(response.data.access);
+            const response = await apiCall('post', 'http://localhost:8000/api/login/', { username, password });
+            const newToken = response.data.access;
+            setToken(newToken);
             setRefreshToken(response.data.refresh);
-            setIsAuthenticated(true);
-            localStorage.setItem('token', response.data.access);
+            localStorage.setItem('token', newToken);
             localStorage.setItem('refresh', response.data.refresh);
             if (rememberMe) {
                 localStorage.setItem('username', username);
@@ -91,8 +91,13 @@ function App() {
                 localStorage.removeItem('username');
                 localStorage.removeItem('password');
             }
+            await fetchCampaigns(); // Fetch campaigns right after login
         } catch (error) {
-            alert('Login failed: ' + (error.response?.status === 400 ? 'Bad Request' : error.response?.data?.detail || 'Unknown error'));
+            alert('Login failed: ' + (error.response?.data?.detail || 'Unknown error'));
+            setToken('');
+            setRefreshToken('');
+            localStorage.removeItem('token');
+            localStorage.removeItem('refresh');
         }
     };
 
