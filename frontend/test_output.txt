@@ -1,0 +1,1074 @@
+
+> frontend@0.1.0 test
+> react-scripts test --watchAll --verbose
+
+  console.log
+    Rendering campaigns: []
+
+      at Component (src/App.js:499:34)
+
+  console.log
+    fetchCampaigns called
+
+      at fetchCampaigns (src/App.js:116:17)
+
+  console.log
+    apiCall making request: {
+      method: 'get',
+      url: 'http://localhost:8000/api/campaigns/',
+      headers: { Authorization: 'Bearer fake-token' }
+    }
+
+      at apiCall (src/App.js:99:17)
+
+  console.log
+    Rendering campaigns: []
+
+      at Component (src/App.js:499:34)
+
+  console.log
+    Rendering campaigns: []
+
+      at Component (src/App.js:499:34)
+
+  console.log
+    Rendering campaigns: []
+
+      at Component (src/App.js:499:34)
+
+  console.log
+    fetchCampaigns called
+
+      at fetchCampaigns (src/App.js:116:17)
+
+  console.log
+    apiCall making request: {
+      method: 'get',
+      url: 'http://localhost:8000/api/campaigns/',
+      headers: { Authorization: 'Bearer fake-token' }
+    }
+
+      at apiCall (src/App.js:99:17)
+
+  console.log
+    Rendering campaigns: []
+
+      at Component (src/App.js:499:34)
+
+  console.log
+    Rendering campaigns: []
+
+      at Component (src/App.js:499:34)
+
+  console.log
+    Rendering campaigns: []
+
+      at Component (src/App.js:499:34)
+
+  console.log
+    fetchCampaigns called
+
+      at fetchCampaigns (src/App.js:116:17)
+
+  console.log
+    apiCall making request: {
+      method: 'get',
+      url: 'http://localhost:8000/api/campaigns/',
+      headers: { Authorization: 'Bearer fake-token' }
+    }
+
+      at apiCall (src/App.js:99:17)
+
+  console.log
+    Rendering campaigns: []
+
+      at Component (src/App.js:499:34)
+
+  console.log
+    Rendering campaigns: []
+
+      at Component (src/App.js:499:34)
+
+  console.log
+    Rendering campaigns: []
+
+      at Component (src/App.js:499:34)
+
+  console.log
+    fetchCampaigns called
+
+      at fetchCampaigns (src/App.js:116:17)
+
+  console.log
+    apiCall making request: {
+      method: 'get',
+      url: 'http://localhost:8000/api/campaigns/',
+      headers: { Authorization: 'Bearer fake-token' }
+    }
+
+      at apiCall (src/App.js:99:17)
+
+  console.log
+    Rendering campaigns: []
+
+      at Component (src/App.js:499:34)
+
+  console.log
+    Rendering campaigns: []
+
+      at Component (src/App.js:499:34)
+
+  console.log
+    Rendering campaigns: []
+
+      at Component (src/App.js:499:34)
+
+  console.log
+    fetchCampaigns called
+
+      at fetchCampaigns (src/App.js:116:17)
+
+  console.log
+    apiCall making request: {
+      method: 'get',
+      url: 'http://localhost:8000/api/campaigns/',
+      headers: { Authorization: 'Bearer fake-token' }
+    }
+
+      at apiCall (src/App.js:99:17)
+
+  console.log
+    Rendering campaigns: []
+
+      at Component (src/App.js:499:34)
+
+  console.log
+    Rendering campaigns: []
+
+      at Component (src/App.js:499:34)
+
+  console.log
+    Rendering campaigns: []
+
+      at Component (src/App.js:499:34)
+
+  console.log
+    fetchCampaigns called
+
+      at fetchCampaigns (src/App.js:116:17)
+
+  console.log
+    apiCall making request: {
+      method: 'get',
+      url: 'http://localhost:8000/api/campaigns/',
+      headers: { Authorization: 'Bearer fake-token' }
+    }
+
+      at apiCall (src/App.js:99:17)
+
+  console.log
+    Rendering campaigns: []
+
+      at Component (src/App.js:499:34)
+
+  console.log
+    Rendering campaigns: []
+
+      at Component (src/App.js:499:34)
+
+  console.log
+    Rendering campaigns: []
+
+      at Component (src/App.js:499:34)
+
+  console.log
+    fetchCampaigns called
+
+      at fetchCampaigns (src/App.js:116:17)
+
+  console.log
+    apiCall making request: {
+      method: 'get',
+      url: 'http://localhost:8000/api/campaigns/',
+      headers: { Authorization: 'Bearer fake-token' }
+    }
+
+      at apiCall (src/App.js:99:17)
+
+  console.log
+    Rendering campaigns: []
+
+      at Component (src/App.js:499:34)
+
+  console.log
+    Rendering campaigns: []
+
+      at Component (src/App.js:499:34)
+
+  console.log
+    Rendering campaigns: []
+
+      at Component (src/App.js:499:34)
+
+  console.log
+    fetchCampaigns called
+
+      at fetchCampaigns (src/App.js:116:17)
+
+  console.log
+    apiCall making request: {
+      method: 'get',
+      url: 'http://localhost:8000/api/campaigns/',
+      headers: { Authorization: 'Bearer fake-token' }
+    }
+
+      at apiCall (src/App.js:99:17)
+
+  console.log
+    Rendering campaigns: []
+
+      at Component (src/App.js:499:34)
+
+  console.log
+    Rendering campaigns: []
+
+      at Component (src/App.js:499:34)
+
+  console.log
+    Rendering campaigns: []
+
+      at Component (src/App.js:499:34)
+
+  console.log
+    fetchCampaigns called
+
+      at fetchCampaigns (src/App.js:116:17)
+
+  console.log
+    apiCall making request: {
+      method: 'get',
+      url: 'http://localhost:8000/api/campaigns/',
+      headers: { Authorization: 'Bearer fake-token' }
+    }
+
+      at apiCall (src/App.js:99:17)
+
+  console.log
+    Rendering campaigns: []
+
+      at Component (src/App.js:499:34)
+
+  console.log
+    Rendering campaigns: []
+
+      at Component (src/App.js:499:34)
+
+  console.log
+    Rendering campaigns: []
+
+      at Component (src/App.js:499:34)
+
+  console.log
+    fetchCampaigns called
+
+      at fetchCampaigns (src/App.js:116:17)
+
+  console.log
+    apiCall making request: {
+      method: 'get',
+      url: 'http://localhost:8000/api/campaigns/',
+      headers: { Authorization: 'Bearer fake-token' }
+    }
+
+      at apiCall (src/App.js:99:17)
+
+  console.log
+    Rendering campaigns: []
+
+      at Component (src/App.js:499:34)
+
+  console.log
+    Rendering campaigns: []
+
+      at Component (src/App.js:499:34)
+
+FAIL src/App.test.js
+  App
+    √ renders login form (35 ms)
+    √ handles login failure (16 ms)
+    × logs in successfully and shows campaigns (252 ms)
+    × renders campaign list (56 ms)
+    × adds a new campaign (19 ms)
+    × toggles campaign status (12 ms)
+    × deletes a campaign (13 ms)
+    × renders entity types (16 ms)
+    × adds an entity (11 ms)
+    × edits an entity (17 ms)
+    × deletes an entity (25 ms)
+    × handles API errors (39 ms)
+
+  ● App › logs in successfully and shows campaigns
+
+    Unable to find an element with the text: Campaign 1. This could be because the text is broken up by multiple elements. In this case, you can provide a function for your text matcher to make your matcher more flexible.
+
+    Ignored nodes: comments, script, style
+    [36m<body>[39m
+      [36m<div>[39m
+        [36m<div[39m
+          [33mstyle[39m=[32m"display: flex; min-height: 100vh; font-family: \"Cinzel\", serif; background: rgb(244, 232, 193); color: rgb(60, 47, 47);"[39m
+        [36m>[39m
+          [36m<button[39m
+            [33mstyle[39m=[32m"position: fixed; top: 10px; left: 10px; z-index: 1000; background: rgb(107, 78, 49); color: rgb(244, 232, 193); border: 2px solid #3c2f2f; padding: 5px 10px; cursor: pointer; border-radius: 4px;"[39m
+          [36m>[39m
+            [0m☰[0m
+          [36m</button>[39m
+          [36m<div[39m
+            [33mstyle[39m=[32m"width: 250px; background: rgb(107, 78, 49); color: rgb(244, 232, 193); padding: 40px 20px 20px 20px; overflow: hidden; transition: width 0.3s; position: fixed; height: 100%; z-index: 999; box-shadow: 2px 0 5px rgba(0,0,0,0.5);"[39m
+          [36m>[39m
+            [36m<h3[39m
+              [33mstyle[39m=[32m"margin: 0px 0px 10px 0px; text-align: center; font-size: 1.5em; text-shadow: 1px 1px 2px #3c2f2f;"[39m
+            [36m>[39m
+              [0mCampaigns[0m
+            [36m</h3>[39m
+            [36m<input[39m
+              [33mplaceholder[39m=[32m"Search Campaigns"[39m
+              [33mstyle[39m=[32m"width: 100%; padding: 8px; margin-bottom: 20px; border: 1px solid #3c2f2f; border-radius: 4px; background: rgb(249, 241, 228);"[39m
+              [33mtype[39m=[32m"text"[39m
+              [33mvalue[39m=[32m""[39m
+            [36m/>[39m
+            [36m<ul[39m
+              [33mstyle[39m=[32m"list-style: none; padding: 0px;"[39m
+            [36m/>[39m
+            [36m<button[39m
+              [33mstyle[39m=[32m"margin-top: 20px; width: 100%; background: rgb(138, 85, 34); color: rgb(244, 232, 193); border: 2px solid #3c2f2f; padding: 10px; cursor: pointer; border-radius: 4px;"[39m
+            [36m>[39m
+              [0mAdd Campaign[0m
+            [36m</button>[39m
+            [36m<button[39m
+              [33mstyle[39m=[32m"margin-top: 10px; width: 100%; background: rgb(150, 40, 27); color: rgb(244, 232, 193); border: 2px solid #3c2f2f; padding: 10px; cursor: pointer; border-radius: 4px;"[39m
+            [36m>[39m
+              [0mLogout[0m
+            [36m</button>[39m
+          [36m</div>[39m
+          [36m<div[39m
+            [33mstyle[39m=[32m"flex: 1; padding: 20px; margin-left: 250px; margin-right: 0px; transition: margin-left 0.3s, margin-right 0.3s; background: rgb(244, 232, 193); overflow-x: auto; white-space: nowrap;"[39m
+          [36m>[39m
+            [36m<h1[39m
+              [33mstyle[39m=[32m"color: rgb(60, 47, 47); margin: 0px 0px 20px 0px; text-align: center; font-size: 2em; text-shadow: 2px 2px 4px rgba(60, 47, 47, 0.3);"[39m
+            [36m>[39m
+              [0mD&D Campaign Manager[0m
+            [36m</h1>[39m
+            [36m<div[39m
+              [33mstyle[39m=[32m""[39m
+            [36m/>[39m
+          [36m</div>[39m
+        [36m</div>[39m
+      [36m</div>[39m
+    [36m</body>[39m
+
+    [0m [90m 59 |[39m     })[33m;[39m
+     [90m 60 |[39m
+    [31m[1m>[22m[39m[90m 61 |[39m     [36mawait[39m waitFor(() [33m=>[39m {
+     [90m    |[39m                  [31m[1m^[22m[39m
+     [90m 62 |[39m       expect(screen[33m.[39mgetByText([32m'Campaigns'[39m))[33m.[39mtoBeInTheDocument()[33m;[39m
+     [90m 63 |[39m       expect(screen[33m.[39mgetByText([32m'Campaign 1'[39m))[33m.[39mtoBeInTheDocument()[33m;[39m
+     [90m 64 |[39m     }[33m,[39m { timeout[33m:[39m [35m6000[39m })[33m;[39m[0m
+
+      at waitForWrapper (node_modules/@testing-library/dom/dist/wait-for.js:163:27)
+      at Object.<anonymous> (src/App.test.js:61:18)
+
+  ● App › renders campaign list
+
+    Unable to find an element with the text: Campaign 1. This could be because the text is broken up by multiple elements. In this case, you can provide a function for your text matcher to make your matcher more flexible.
+
+    Ignored nodes: comments, script, style
+    [36m<body>[39m
+      [36m<div>[39m
+        [36m<div[39m
+          [33mstyle[39m=[32m"display: flex; min-height: 100vh; font-family: \"Cinzel\", serif; background: rgb(244, 232, 193); color: rgb(60, 47, 47);"[39m
+        [36m>[39m
+          [36m<button[39m
+            [33mstyle[39m=[32m"position: fixed; top: 10px; left: 10px; z-index: 1000; background: rgb(107, 78, 49); color: rgb(244, 232, 193); border: 2px solid #3c2f2f; padding: 5px 10px; cursor: pointer; border-radius: 4px;"[39m
+          [36m>[39m
+            [0m☰[0m
+          [36m</button>[39m
+          [36m<div[39m
+            [33mstyle[39m=[32m"width: 250px; background: rgb(107, 78, 49); color: rgb(244, 232, 193); padding: 40px 20px 20px 20px; overflow: hidden; transition: width 0.3s; position: fixed; height: 100%; z-index: 999; box-shadow: 2px 0 5px rgba(0,0,0,0.5);"[39m
+          [36m>[39m
+            [36m<h3[39m
+              [33mstyle[39m=[32m"margin: 0px 0px 10px 0px; text-align: center; font-size: 1.5em; text-shadow: 1px 1px 2px #3c2f2f;"[39m
+            [36m>[39m
+              [0mCampaigns[0m
+            [36m</h3>[39m
+            [36m<input[39m
+              [33mplaceholder[39m=[32m"Search Campaigns"[39m
+              [33mstyle[39m=[32m"width: 100%; padding: 8px; margin-bottom: 20px; border: 1px solid #3c2f2f; border-radius: 4px; background: rgb(249, 241, 228);"[39m
+              [33mtype[39m=[32m"text"[39m
+              [33mvalue[39m=[32m""[39m
+            [36m/>[39m
+            [36m<ul[39m
+              [33mstyle[39m=[32m"list-style: none; padding: 0px;"[39m
+            [36m/>[39m
+            [36m<button[39m
+              [33mstyle[39m=[32m"margin-top: 20px; width: 100%; background: rgb(138, 85, 34); color: rgb(244, 232, 193); border: 2px solid #3c2f2f; padding: 10px; cursor: pointer; border-radius: 4px;"[39m
+            [36m>[39m
+              [0mAdd Campaign[0m
+            [36m</button>[39m
+            [36m<button[39m
+              [33mstyle[39m=[32m"margin-top: 10px; width: 100%; background: rgb(150, 40, 27); color: rgb(244, 232, 193); border: 2px solid #3c2f2f; padding: 10px; cursor: pointer; border-radius: 4px;"[39m
+            [36m>[39m
+              [0mLogout[0m
+            [36m</button>[39m
+          [36m</div>[39m
+          [36m<div[39m
+            [33mstyle[39m=[32m"flex: 1; padding: 20px; margin-left: 250px; margin-right: 0px; transition: margin-left 0.3s, margin-right 0.3s; background: rgb(244, 232, 193); overflow-x: auto; white-space: nowrap;"[39m
+          [36m>[39m
+            [36m<h1[39m
+              [33mstyle[39m=[32m"color: rgb(60, 47, 47); margin: 0px 0px 20px 0px; text-align: center; font-size: 2em; text-shadow: 2px 2px 4px rgba(60, 47, 47, 0.3);"[39m
+            [36m>[39m
+              [0mD&D Campaign Manager[0m
+            [36m</h1>[39m
+            [36m<div[39m
+              [33mstyle[39m=[32m""[39m
+            [36m/>[39m
+          [36m</div>[39m
+        [36m</div>[39m
+      [36m</div>[39m
+    [36m</body>[39m
+
+    [0m [90m 83 |[39m     })[33m;[39m
+     [90m 84 |[39m
+    [31m[1m>[22m[39m[90m 85 |[39m     [36mawait[39m waitFor(() [33m=>[39m {
+     [90m    |[39m                  [31m[1m^[22m[39m
+     [90m 86 |[39m       expect(screen[33m.[39mgetByText([32m'Campaign 1'[39m))[33m.[39mtoBeInTheDocument()[33m;[39m
+     [90m 87 |[39m     }[33m,[39m { timeout[33m:[39m [35m6000[39m })[33m;[39m
+     [90m 88 |[39m   }[33m,[39m [35m20000[39m)[33m;[39m[0m
+
+      at waitForWrapper (node_modules/@testing-library/dom/dist/wait-for.js:163:27)
+      at Object.<anonymous> (src/App.test.js:85:18)
+
+  ● App › adds a new campaign
+
+    TestingLibraryElementError: Unable to find an element with the placeholder text of: Campaign Name
+
+    Ignored nodes: comments, script, style
+    [36m<body>[39m
+      [36m<div>[39m
+        [36m<div[39m
+          [33mstyle[39m=[32m"display: flex; min-height: 100vh; font-family: \"Cinzel\", serif; background: rgb(244, 232, 193); color: rgb(60, 47, 47);"[39m
+        [36m>[39m
+          [36m<button[39m
+            [33mstyle[39m=[32m"position: fixed; top: 10px; left: 10px; z-index: 1000; background: rgb(107, 78, 49); color: rgb(244, 232, 193); border: 2px solid #3c2f2f; padding: 5px 10px; cursor: pointer; border-radius: 4px;"[39m
+          [36m>[39m
+            [0m☰[0m
+          [36m</button>[39m
+          [36m<div[39m
+            [33mstyle[39m=[32m"width: 0px; background: rgb(107, 78, 49); color: rgb(244, 232, 193); padding: 0px; overflow: hidden; transition: width 0.3s; position: fixed; height: 100%; z-index: 999; box-shadow: none;"[39m
+          [36m>[39m
+            [36m<h3[39m
+              [33mstyle[39m=[32m"margin: 0px 0px 10px 0px; text-align: center; font-size: 1.5em; text-shadow: 1px 1px 2px #3c2f2f;"[39m
+            [36m>[39m
+              [0mCampaigns[0m
+            [36m</h3>[39m
+            [36m<input[39m
+              [33mplaceholder[39m=[32m"Search Campaigns"[39m
+              [33mstyle[39m=[32m"width: 100%; padding: 8px; margin-bottom: 20px; border: 1px solid #3c2f2f; border-radius: 4px; background: rgb(249, 241, 228);"[39m
+              [33mtype[39m=[32m"text"[39m
+              [33mvalue[39m=[32m""[39m
+            [36m/>[39m
+            [36m<ul[39m
+              [33mstyle[39m=[32m"list-style: none; padding: 0px;"[39m
+            [36m/>[39m
+            [36m<button[39m
+              [33mstyle[39m=[32m"margin-top: 20px; width: 100%; background: rgb(138, 85, 34); color: rgb(244, 232, 193); border: 2px solid #3c2f2f; padding: 10px; cursor: pointer; border-radius: 4px;"[39m
+            [36m>[39m
+              [0mAdd Campaign[0m
+            [36m</button>[39m
+            [36m<button[39m
+              [33mstyle[39m=[32m"margin-top: 10px; width: 100%; background: rgb(150, 40, 27); color: rgb(244, 232, 193); border: 2px solid #3c2f2f; padding: 10px; cursor: pointer; border-radius: 4px;"[39m
+            [36m>[39m
+              [0mLogout[0m
+            [36m</button>[39m
+          [36m</div>[39m
+          [36m<div[39m
+            [33mstyle[39m=[32m"flex: 1; padding: 20px; margin-left: 0px; margin-right: 0px; transition: margin-left 0.3s, margin-right 0.3s; background: rgb(244, 232, 193); overflow-x: auto; white-space: nowrap;"[39m
+          [36m>[39m
+            [36m<h1[39m
+              [33mstyle[39m=[32m"color: rgb(60, 47, 47); margin: 0px 0px 20px 0px; text-align: center; font-size: 2em; text-shadow: 2px 2px 4px rgba(60, 47, 47, 0.3);"[39m
+            [36m>[39m
+              [0mD&D Campaign Manager[0m
+            [36m</h1>[39m
+            [36m<div[39m
+              [33mstyle[39m=[32m""[39m
+            [36m/>[39m
+          [36m</div>[39m
+        [36m</div>[39m
+      [36m</div>[39m
+    [36m</body>[39m
+
+    [0m [90m 108 |[39m       fireEvent[33m.[39mclick(screen[33m.[39mgetByText([32m'Add Campaign'[39m))[33m;[39m
+     [90m 109 |[39m       jest[33m.[39madvanceTimersByTime([35m1000[39m)[33m;[39m [90m// Wait for modal[39m
+    [31m[1m>[22m[39m[90m 110 |[39m       fireEvent[33m.[39mchange(screen[33m.[39mgetByPlaceholderText([32m'Campaign Name'[39m)[33m,[39m { target[33m:[39m { value[33m:[39m [32m'New Campaign'[39m } })[33m;[39m
+     [90m     |[39m                               [31m[1m^[22m[39m
+     [90m 111 |[39m       fireEvent[33m.[39mchange(screen[33m.[39mgetByPlaceholderText([32m'Description'[39m)[33m,[39m { target[33m:[39m { value[33m:[39m [32m'New Desc'[39m } })[33m;[39m
+     [90m 112 |[39m       fireEvent[33m.[39mclick(screen[33m.[39mgetByTestId([32m'add-campaign-submit'[39m))[33m;[39m
+     [90m 113 |[39m       jest[33m.[39madvanceTimersByTime([35m5000[39m)[33m;[39m[0m
+
+      at Object.getElementError (node_modules/@testing-library/dom/dist/config.js:37:19)
+      at allQuery (node_modules/@testing-library/dom/dist/query-helpers.js:76:38)
+      at query (node_modules/@testing-library/dom/dist/query-helpers.js:52:17)
+      at getByPlaceholderText (node_modules/@testing-library/dom/dist/query-helpers.js:95:19)
+      at callback (src/App.test.js:110:31)
+      at callback (node_modules/@testing-library/react/dist/act-compat.js:48:24)
+      at actImplementation (node_modules/react/cjs/react.development.js:1081:22)
+      at node_modules/@testing-library/react/dist/act-compat.js:47:25
+      at Object.<anonymous> (src/App.test.js:105:14)
+
+  ● App › toggles campaign status
+
+    TestingLibraryElementError: Unable to find an element with the text: Campaign 1. This could be because the text is broken up by multiple elements. In this case, you can provide a function for your text matcher to make your matcher more flexible.
+
+    Ignored nodes: comments, script, style
+    [36m<body>[39m
+      [36m<div>[39m
+        [36m<div[39m
+          [33mstyle[39m=[32m"display: flex; min-height: 100vh; font-family: \"Cinzel\", serif; background: rgb(244, 232, 193); color: rgb(60, 47, 47);"[39m
+        [36m>[39m
+          [36m<button[39m
+            [33mstyle[39m=[32m"position: fixed; top: 10px; left: 10px; z-index: 1000; background: rgb(107, 78, 49); color: rgb(244, 232, 193); border: 2px solid #3c2f2f; padding: 5px 10px; cursor: pointer; border-radius: 4px;"[39m
+          [36m>[39m
+            [0m☰[0m
+          [36m</button>[39m
+          [36m<div[39m
+            [33mstyle[39m=[32m"width: 0px; background: rgb(107, 78, 49); color: rgb(244, 232, 193); padding: 0px; overflow: hidden; transition: width 0.3s; position: fixed; height: 100%; z-index: 999; box-shadow: none;"[39m
+          [36m>[39m
+            [36m<h3[39m
+              [33mstyle[39m=[32m"margin: 0px 0px 10px 0px; text-align: center; font-size: 1.5em; text-shadow: 1px 1px 2px #3c2f2f;"[39m
+            [36m>[39m
+              [0mCampaigns[0m
+            [36m</h3>[39m
+            [36m<input[39m
+              [33mplaceholder[39m=[32m"Search Campaigns"[39m
+              [33mstyle[39m=[32m"width: 100%; padding: 8px; margin-bottom: 20px; border: 1px solid #3c2f2f; border-radius: 4px; background: rgb(249, 241, 228);"[39m
+              [33mtype[39m=[32m"text"[39m
+              [33mvalue[39m=[32m""[39m
+            [36m/>[39m
+            [36m<ul[39m
+              [33mstyle[39m=[32m"list-style: none; padding: 0px;"[39m
+            [36m/>[39m
+            [36m<button[39m
+              [33mstyle[39m=[32m"margin-top: 20px; width: 100%; background: rgb(138, 85, 34); color: rgb(244, 232, 193); border: 2px solid #3c2f2f; padding: 10px; cursor: pointer; border-radius: 4px;"[39m
+            [36m>[39m
+              [0mAdd Campaign[0m
+            [36m</button>[39m
+            [36m<button[39m
+              [33mstyle[39m=[32m"margin-top: 10px; width: 100%; background: rgb(150, 40, 27); color: rgb(244, 232, 193); border: 2px solid #3c2f2f; padding: 10px; cursor: pointer; border-radius: 4px;"[39m
+            [36m>[39m
+              [0mLogout[0m
+            [36m</button>[39m
+          [36m</div>[39m
+          [36m<div[39m
+            [33mstyle[39m=[32m"flex: 1; padding: 20px; margin-left: 0px; margin-right: 0px; transition: margin-left 0.3s, margin-right 0.3s; background: rgb(244, 232, 193); overflow-x: auto; white-space: nowrap;"[39m
+          [36m>[39m
+            [36m<h1[39m
+              [33mstyle[39m=[32m"color: rgb(60, 47, 47); margin: 0px 0px 20px 0px; text-align: center; font-size: 2em; text-shadow: 2px 2px 4px rgba(60, 47, 47, 0.3);"[39m
+            [36m>[39m
+              [0mD&D Campaign Manager[0m
+            [36m</h1>[39m
+            [36m<div[39m
+              [33mstyle[39m=[32m""[39m
+            [36m/>[39m
+          [36m</div>[39m
+        [36m</div>[39m
+      [36m</div>[39m
+    [36m</body>[39m
+
+    [0m [90m 136 |[39m       fireEvent[33m.[39mclick(screen[33m.[39mgetByText([32m'☰'[39m))[33m;[39m
+     [90m 137 |[39m       jest[33m.[39madvanceTimersByTime([35m5000[39m)[33m;[39m
+    [31m[1m>[22m[39m[90m 138 |[39m       fireEvent[33m.[39mclick(screen[33m.[39mgetByText([32m'Campaign 1'[39m))[33m;[39m
+     [90m     |[39m                              [31m[1m^[22m[39m
+     [90m 139 |[39m       jest[33m.[39madvanceTimersByTime([35m1000[39m)[33m;[39m
+     [90m 140 |[39m     })[33m;[39m
+     [90m 141 |[39m[0m
+
+      at Object.getElementError (node_modules/@testing-library/dom/dist/config.js:37:19)
+      at allQuery (node_modules/@testing-library/dom/dist/query-helpers.js:76:38)
+      at query (node_modules/@testing-library/dom/dist/query-helpers.js:52:17)
+      at getByText (node_modules/@testing-library/dom/dist/query-helpers.js:95:19)
+      at callback (src/App.test.js:138:30)
+      at callback (node_modules/@testing-library/react/dist/act-compat.js:48:24)
+      at actImplementation (node_modules/react/cjs/react.development.js:1081:22)
+      at node_modules/@testing-library/react/dist/act-compat.js:47:25
+      at Object.<anonymous> (src/App.test.js:135:14)
+
+  ● App › deletes a campaign
+
+    TestingLibraryElementError: Unable to find an element with the text: Campaign 1. This could be because the text is broken up by multiple elements. In this case, you can provide a function for your text matcher to make your matcher more flexible.
+
+    Ignored nodes: comments, script, style
+    [36m<body>[39m
+      [36m<div>[39m
+        [36m<div[39m
+          [33mstyle[39m=[32m"display: flex; min-height: 100vh; font-family: \"Cinzel\", serif; background: rgb(244, 232, 193); color: rgb(60, 47, 47);"[39m
+        [36m>[39m
+          [36m<button[39m
+            [33mstyle[39m=[32m"position: fixed; top: 10px; left: 10px; z-index: 1000; background: rgb(107, 78, 49); color: rgb(244, 232, 193); border: 2px solid #3c2f2f; padding: 5px 10px; cursor: pointer; border-radius: 4px;"[39m
+          [36m>[39m
+            [0m☰[0m
+          [36m</button>[39m
+          [36m<div[39m
+            [33mstyle[39m=[32m"width: 0px; background: rgb(107, 78, 49); color: rgb(244, 232, 193); padding: 0px; overflow: hidden; transition: width 0.3s; position: fixed; height: 100%; z-index: 999; box-shadow: none;"[39m
+          [36m>[39m
+            [36m<h3[39m
+              [33mstyle[39m=[32m"margin: 0px 0px 10px 0px; text-align: center; font-size: 1.5em; text-shadow: 1px 1px 2px #3c2f2f;"[39m
+            [36m>[39m
+              [0mCampaigns[0m
+            [36m</h3>[39m
+            [36m<input[39m
+              [33mplaceholder[39m=[32m"Search Campaigns"[39m
+              [33mstyle[39m=[32m"width: 100%; padding: 8px; margin-bottom: 20px; border: 1px solid #3c2f2f; border-radius: 4px; background: rgb(249, 241, 228);"[39m
+              [33mtype[39m=[32m"text"[39m
+              [33mvalue[39m=[32m""[39m
+            [36m/>[39m
+            [36m<ul[39m
+              [33mstyle[39m=[32m"list-style: none; padding: 0px;"[39m
+            [36m/>[39m
+            [36m<button[39m
+              [33mstyle[39m=[32m"margin-top: 20px; width: 100%; background: rgb(138, 85, 34); color: rgb(244, 232, 193); border: 2px solid #3c2f2f; padding: 10px; cursor: pointer; border-radius: 4px;"[39m
+            [36m>[39m
+              [0mAdd Campaign[0m
+            [36m</button>[39m
+            [36m<button[39m
+              [33mstyle[39m=[32m"margin-top: 10px; width: 100%; background: rgb(150, 40, 27); color: rgb(244, 232, 193); border: 2px solid #3c2f2f; padding: 10px; cursor: pointer; border-radius: 4px;"[39m
+            [36m>[39m
+              [0mLogout[0m
+            [36m</button>[39m
+          [36m</div>[39m
+          [36m<div[39m
+            [33mstyle[39m=[32m"flex: 1; padding: 20px; margin-left: 0px; margin-right: 0px; transition: margin-left 0.3s, margin-right 0.3s; background: rgb(244, 232, 193); overflow-x: auto; white-space: nowrap;"[39m
+          [36m>[39m
+            [36m<h1[39m
+              [33mstyle[39m=[32m"color: rgb(60, 47, 47); margin: 0px 0px 20px 0px; text-align: center; font-size: 2em; text-shadow: 2px 2px 4px rgba(60, 47, 47, 0.3);"[39m
+            [36m>[39m
+              [0mD&D Campaign Manager[0m
+            [36m</h1>[39m
+            [36m<div[39m
+              [33mstyle[39m=[32m""[39m
+            [36m/>[39m
+          [36m</div>[39m
+        [36m</div>[39m
+      [36m</div>[39m
+    [36m</body>[39m
+
+    [0m [90m 174 |[39m       fireEvent[33m.[39mclick(screen[33m.[39mgetByText([32m'☰'[39m))[33m;[39m
+     [90m 175 |[39m       jest[33m.[39madvanceTimersByTime([35m5000[39m)[33m;[39m
+    [31m[1m>[22m[39m[90m 176 |[39m       fireEvent[33m.[39mclick(screen[33m.[39mgetByText([32m'Campaign 1'[39m))[33m;[39m
+     [90m     |[39m                              [31m[1m^[22m[39m
+     [90m 177 |[39m       fireEvent[33m.[39mclick(screen[33m.[39mgetByTestId([32m'delete-campaign'[39m))[33m;[39m
+     [90m 178 |[39m       jest[33m.[39madvanceTimersByTime([35m5000[39m)[33m;[39m
+     [90m 179 |[39m     })[33m;[39m[0m
+
+      at Object.getElementError (node_modules/@testing-library/dom/dist/config.js:37:19)
+      at allQuery (node_modules/@testing-library/dom/dist/query-helpers.js:76:38)
+      at query (node_modules/@testing-library/dom/dist/query-helpers.js:52:17)
+      at getByText (node_modules/@testing-library/dom/dist/query-helpers.js:95:19)
+      at callback (src/App.test.js:176:30)
+      at callback (node_modules/@testing-library/react/dist/act-compat.js:48:24)
+      at actImplementation (node_modules/react/cjs/react.development.js:1081:22)
+      at node_modules/@testing-library/react/dist/act-compat.js:47:25
+      at Object.<anonymous> (src/App.test.js:173:14)
+
+  ● App › renders entity types
+
+    TestingLibraryElementError: Unable to find an element with the text: Campaign 1. This could be because the text is broken up by multiple elements. In this case, you can provide a function for your text matcher to make your matcher more flexible.
+
+    Ignored nodes: comments, script, style
+    [36m<body>[39m
+      [36m<div>[39m
+        [36m<div[39m
+          [33mstyle[39m=[32m"display: flex; min-height: 100vh; font-family: \"Cinzel\", serif; background: rgb(244, 232, 193); color: rgb(60, 47, 47);"[39m
+        [36m>[39m
+          [36m<button[39m
+            [33mstyle[39m=[32m"position: fixed; top: 10px; left: 10px; z-index: 1000; background: rgb(107, 78, 49); color: rgb(244, 232, 193); border: 2px solid #3c2f2f; padding: 5px 10px; cursor: pointer; border-radius: 4px;"[39m
+          [36m>[39m
+            [0m☰[0m
+          [36m</button>[39m
+          [36m<div[39m
+            [33mstyle[39m=[32m"width: 0px; background: rgb(107, 78, 49); color: rgb(244, 232, 193); padding: 0px; overflow: hidden; transition: width 0.3s; position: fixed; height: 100%; z-index: 999; box-shadow: none;"[39m
+          [36m>[39m
+            [36m<h3[39m
+              [33mstyle[39m=[32m"margin: 0px 0px 10px 0px; text-align: center; font-size: 1.5em; text-shadow: 1px 1px 2px #3c2f2f;"[39m
+            [36m>[39m
+              [0mCampaigns[0m
+            [36m</h3>[39m
+            [36m<input[39m
+              [33mplaceholder[39m=[32m"Search Campaigns"[39m
+              [33mstyle[39m=[32m"width: 100%; padding: 8px; margin-bottom: 20px; border: 1px solid #3c2f2f; border-radius: 4px; background: rgb(249, 241, 228);"[39m
+              [33mtype[39m=[32m"text"[39m
+              [33mvalue[39m=[32m""[39m
+            [36m/>[39m
+            [36m<ul[39m
+              [33mstyle[39m=[32m"list-style: none; padding: 0px;"[39m
+            [36m/>[39m
+            [36m<button[39m
+              [33mstyle[39m=[32m"margin-top: 20px; width: 100%; background: rgb(138, 85, 34); color: rgb(244, 232, 193); border: 2px solid #3c2f2f; padding: 10px; cursor: pointer; border-radius: 4px;"[39m
+            [36m>[39m
+              [0mAdd Campaign[0m
+            [36m</button>[39m
+            [36m<button[39m
+              [33mstyle[39m=[32m"margin-top: 10px; width: 100%; background: rgb(150, 40, 27); color: rgb(244, 232, 193); border: 2px solid #3c2f2f; padding: 10px; cursor: pointer; border-radius: 4px;"[39m
+            [36m>[39m
+              [0mLogout[0m
+            [36m</button>[39m
+          [36m</div>[39m
+          [36m<div[39m
+            [33mstyle[39m=[32m"flex: 1; padding: 20px; margin-left: 0px; margin-right: 0px; transition: margin-left 0.3s, margin-right 0.3s; background: rgb(244, 232, 193); overflow-x: auto; white-space: nowrap;"[39m
+          [36m>[39m
+            [36m<h1[39m
+              [33mstyle[39m=[32m"color: rgb(60, 47, 47); margin: 0px 0px 20px 0px; text-align: center; font-size: 2em; text-shadow: 2px 2px 4px rgba(60, 47, 47, 0.3);"[39m
+            [36m>[39m
+              [0mD&D Campaign Manager[0m
+            [36m</h1>[39m
+            [36m<div[39m
+              [33mstyle[39m=[32m""[39m
+            [36m/>[39m
+          [36m</div>[39m
+        [36m</div>[39m
+      [36m</div>[39m
+    [36m</body>[39m
+
+    [0m [90m 201 |[39m       fireEvent[33m.[39mclick(screen[33m.[39mgetByText([32m'☰'[39m))[33m;[39m
+     [90m 202 |[39m       jest[33m.[39madvanceTimersByTime([35m5000[39m)[33m;[39m
+    [31m[1m>[22m[39m[90m 203 |[39m       fireEvent[33m.[39mclick(screen[33m.[39mgetByText([32m'Campaign 1'[39m))[33m;[39m
+     [90m     |[39m                              [31m[1m^[22m[39m
+     [90m 204 |[39m       jest[33m.[39madvanceTimersByTime([35m5000[39m)[33m;[39m
+     [90m 205 |[39m     })[33m;[39m
+     [90m 206 |[39m[0m
+
+      at Object.getElementError (node_modules/@testing-library/dom/dist/config.js:37:19)
+      at allQuery (node_modules/@testing-library/dom/dist/query-helpers.js:76:38)
+      at query (node_modules/@testing-library/dom/dist/query-helpers.js:52:17)
+      at getByText (node_modules/@testing-library/dom/dist/query-helpers.js:95:19)
+      at callback (src/App.test.js:203:30)
+      at callback (node_modules/@testing-library/react/dist/act-compat.js:48:24)
+      at actImplementation (node_modules/react/cjs/react.development.js:1081:22)
+      at node_modules/@testing-library/react/dist/act-compat.js:47:25
+      at Object.<anonymous> (src/App.test.js:200:14)
+
+  ● App › adds an entity
+
+    TestingLibraryElementError: Unable to find an element with the text: Campaign 1. This could be because the text is broken up by multiple elements. In this case, you can provide a function for your text matcher to make your matcher more flexible.
+
+    Ignored nodes: comments, script, style
+    [36m<body>[39m
+      [36m<div>[39m
+        [36m<div[39m
+          [33mstyle[39m=[32m"display: flex; min-height: 100vh; font-family: \"Cinzel\", serif; background: rgb(244, 232, 193); color: rgb(60, 47, 47);"[39m
+        [36m>[39m
+          [36m<button[39m
+            [33mstyle[39m=[32m"position: fixed; top: 10px; left: 10px; z-index: 1000; background: rgb(107, 78, 49); color: rgb(244, 232, 193); border: 2px solid #3c2f2f; padding: 5px 10px; cursor: pointer; border-radius: 4px;"[39m
+          [36m>[39m
+            [0m☰[0m
+          [36m</button>[39m
+          [36m<div[39m
+            [33mstyle[39m=[32m"width: 0px; background: rgb(107, 78, 49); color: rgb(244, 232, 193); padding: 0px; overflow: hidden; transition: width 0.3s; position: fixed; height: 100%; z-index: 999; box-shadow: none;"[39m
+          [36m>[39m
+            [36m<h3[39m
+              [33mstyle[39m=[32m"margin: 0px 0px 10px 0px; text-align: center; font-size: 1.5em; text-shadow: 1px 1px 2px #3c2f2f;"[39m
+            [36m>[39m
+              [0mCampaigns[0m
+            [36m</h3>[39m
+            [36m<input[39m
+              [33mplaceholder[39m=[32m"Search Campaigns"[39m
+              [33mstyle[39m=[32m"width: 100%; padding: 8px; margin-bottom: 20px; border: 1px solid #3c2f2f; border-radius: 4px; background: rgb(249, 241, 228);"[39m
+              [33mtype[39m=[32m"text"[39m
+              [33mvalue[39m=[32m""[39m
+            [36m/>[39m
+            [36m<ul[39m
+              [33mstyle[39m=[32m"list-style: none; padding: 0px;"[39m
+            [36m/>[39m
+            [36m<button[39m
+              [33mstyle[39m=[32m"margin-top: 20px; width: 100%; background: rgb(138, 85, 34); color: rgb(244, 232, 193); border: 2px solid #3c2f2f; padding: 10px; cursor: pointer; border-radius: 4px;"[39m
+            [36m>[39m
+              [0mAdd Campaign[0m
+            [36m</button>[39m
+            [36m<button[39m
+              [33mstyle[39m=[32m"margin-top: 10px; width: 100%; background: rgb(150, 40, 27); color: rgb(244, 232, 193); border: 2px solid #3c2f2f; padding: 10px; cursor: pointer; border-radius: 4px;"[39m
+            [36m>[39m
+              [0mLogout[0m
+            [36m</button>[39m
+          [36m</div>[39m
+          [36m<div[39m
+            [33mstyle[39m=[32m"flex: 1; padding: 20px; margin-left: 0px; margin-right: 0px; transition: margin-left 0.3s, margin-right 0.3s; background: rgb(244, 232, 193); overflow-x: auto; white-space: nowrap;"[39m
+          [36m>[39m
+            [36m<h1[39m
+              [33mstyle[39m=[32m"color: rgb(60, 47, 47); margin: 0px 0px 20px 0px; text-align: center; font-size: 2em; text-shadow: 2px 2px 4px rgba(60, 47, 47, 0.3);"[39m
+            [36m>[39m
+              [0mD&D Campaign Manager[0m
+            [36m</h1>[39m
+            [36m<div[39m
+              [33mstyle[39m=[32m""[39m
+            [36m/>[39m
+          [36m</div>[39m
+        [36m</div>[39m
+      [36m</div>[39m
+    [36m</body>[39m
+
+    [0m [90m 228 |[39m       fireEvent[33m.[39mclick(screen[33m.[39mgetByText([32m'☰'[39m))[33m;[39m
+     [90m 229 |[39m       jest[33m.[39madvanceTimersByTime([35m5000[39m)[33m;[39m
+    [31m[1m>[22m[39m[90m 230 |[39m       fireEvent[33m.[39mclick(screen[33m.[39mgetByText([32m'Campaign 1'[39m))[33m;[39m
+     [90m     |[39m                              [31m[1m^[22m[39m
+     [90m 231 |[39m       jest[33m.[39madvanceTimersByTime([35m1000[39m)[33m;[39m
+     [90m 232 |[39m       fireEvent[33m.[39mclick(screen[33m.[39mgetByTestId([32m'add-entity'[39m))[33m;[39m
+     [90m 233 |[39m       fireEvent[33m.[39mchange(screen[33m.[39mgetByPlaceholderText([32m'Entity Name'[39m)[33m,[39m { target[33m:[39m { value[33m:[39m [32m'New Entity'[39m } })[33m;[39m[0m
+
+      at Object.getElementError (node_modules/@testing-library/dom/dist/config.js:37:19)
+      at allQuery (node_modules/@testing-library/dom/dist/query-helpers.js:76:38)
+      at query (node_modules/@testing-library/dom/dist/query-helpers.js:52:17)
+      at getByText (node_modules/@testing-library/dom/dist/query-helpers.js:95:19)
+      at callback (src/App.test.js:230:30)
+      at callback (node_modules/@testing-library/react/dist/act-compat.js:48:24)
+      at actImplementation (node_modules/react/cjs/react.development.js:1081:22)
+      at node_modules/@testing-library/react/dist/act-compat.js:47:25
+      at Object.<anonymous> (src/App.test.js:227:14)
+
+  ● App › edits an entity
+
+    TestingLibraryElementError: Unable to find an element with the text: Campaign 1. This could be because the text is broken up by multiple elements. In this case, you can provide a function for your text matcher to make your matcher more flexible.
+
+    Ignored nodes: comments, script, style
+    [36m<body>[39m
+      [36m<div>[39m
+        [36m<div[39m
+          [33mstyle[39m=[32m"display: flex; min-height: 100vh; font-family: \"Cinzel\", serif; background: rgb(244, 232, 193); color: rgb(60, 47, 47);"[39m
+        [36m>[39m
+          [36m<button[39m
+            [33mstyle[39m=[32m"position: fixed; top: 10px; left: 10px; z-index: 1000; background: rgb(107, 78, 49); color: rgb(244, 232, 193); border: 2px solid #3c2f2f; padding: 5px 10px; cursor: pointer; border-radius: 4px;"[39m
+          [36m>[39m
+            [0m☰[0m
+          [36m</button>[39m
+          [36m<div[39m
+            [33mstyle[39m=[32m"width: 0px; background: rgb(107, 78, 49); color: rgb(244, 232, 193); padding: 0px; overflow: hidden; transition: width 0.3s; position: fixed; height: 100%; z-index: 999; box-shadow: none;"[39m
+          [36m>[39m
+            [36m<h3[39m
+              [33mstyle[39m=[32m"margin: 0px 0px 10px 0px; text-align: center; font-size: 1.5em; text-shadow: 1px 1px 2px #3c2f2f;"[39m
+            [36m>[39m
+              [0mCampaigns[0m
+            [36m</h3>[39m
+            [36m<input[39m
+              [33mplaceholder[39m=[32m"Search Campaigns"[39m
+              [33mstyle[39m=[32m"width: 100%; padding: 8px; margin-bottom: 20px; border: 1px solid #3c2f2f; border-radius: 4px; background: rgb(249, 241, 228);"[39m
+              [33mtype[39m=[32m"text"[39m
+              [33mvalue[39m=[32m""[39m
+            [36m/>[39m
+            [36m<ul[39m
+              [33mstyle[39m=[32m"list-style: none; padding: 0px;"[39m
+            [36m/>[39m
+            [36m<button[39m
+              [33mstyle[39m=[32m"margin-top: 20px; width: 100%; background: rgb(138, 85, 34); color: rgb(244, 232, 193); border: 2px solid #3c2f2f; padding: 10px; cursor: pointer; border-radius: 4px;"[39m
+            [36m>[39m
+              [0mAdd Campaign[0m
+            [36m</button>[39m
+            [36m<button[39m
+              [33mstyle[39m=[32m"margin-top: 10px; width: 100%; background: rgb(150, 40, 27); color: rgb(244, 232, 193); border: 2px solid #3c2f2f; padding: 10px; cursor: pointer; border-radius: 4px;"[39m
+            [36m>[39m
+              [0mLogout[0m
+            [36m</button>[39m
+          [36m</div>[39m
+          [36m<div[39m
+            [33mstyle[39m=[32m"flex: 1; padding: 20px; margin-left: 0px; margin-right: 0px; transition: margin-left 0.3s, margin-right 0.3s; background: rgb(244, 232, 193); overflow-x: auto; white-space: nowrap;"[39m
+          [36m>[39m
+            [36m<h1[39m
+              [33mstyle[39m=[32m"color: rgb(60, 47, 47); margin: 0px 0px 20px 0px; text-align: center; font-size: 2em; text-shadow: 2px 2px 4px rgba(60, 47, 47, 0.3);"[39m
+            [36m>[39m
+              [0mD&D Campaign Manager[0m
+            [36m</h1>[39m
+            [36m<div[39m
+              [33mstyle[39m=[32m""[39m
+            [36m/>[39m
+          [36m</div>[39m
+        [36m</div>[39m
+      [36m</div>[39m
+    [36m</body>[39m
+
+    [0m [90m 259 |[39m       fireEvent[33m.[39mclick(screen[33m.[39mgetByText([32m'☰'[39m))[33m;[39m
+     [90m 260 |[39m       jest[33m.[39madvanceTimersByTime([35m5000[39m)[33m;[39m
+    [31m[1m>[22m[39m[90m 261 |[39m       fireEvent[33m.[39mclick(screen[33m.[39mgetByText([32m'Campaign 1'[39m))[33m;[39m
+     [90m     |[39m                              [31m[1m^[22m[39m
+     [90m 262 |[39m       jest[33m.[39madvanceTimersByTime([35m1000[39m)[33m;[39m
+     [90m 263 |[39m       fireEvent[33m.[39mclick(screen[33m.[39mgetByText([32m'Entity 1'[39m))[33m;[39m
+     [90m 264 |[39m       fireEvent[33m.[39mchange(screen[33m.[39mgetByDisplayValue([32m'Entity 1'[39m)[33m,[39m { target[33m:[39m { value[33m:[39m [32m'Edited Entity'[39m } })[33m;[39m[0m
+
+      at Object.getElementError (node_modules/@testing-library/dom/dist/config.js:37:19)
+      at allQuery (node_modules/@testing-library/dom/dist/query-helpers.js:76:38)
+      at query (node_modules/@testing-library/dom/dist/query-helpers.js:52:17)
+      at getByText (node_modules/@testing-library/dom/dist/query-helpers.js:95:19)
+      at callback (src/App.test.js:261:30)
+      at callback (node_modules/@testing-library/react/dist/act-compat.js:48:24)
+      at actImplementation (node_modules/react/cjs/react.development.js:1081:22)
+      at node_modules/@testing-library/react/dist/act-compat.js:47:25
+      at Object.<anonymous> (src/App.test.js:258:14)
+
+  ● App › deletes an entity
+
+    TestingLibraryElementError: Unable to find an element with the text: Campaign 1. This could be because the text is broken up by multiple elements. In this case, you can provide a function for your text matcher to make your matcher more flexible.
+
+    Ignored nodes: comments, script, style
+    [36m<body>[39m
+      [36m<div>[39m
+        [36m<div[39m
+          [33mstyle[39m=[32m"display: flex; min-height: 100vh; font-family: \"Cinzel\", serif; background: rgb(244, 232, 193); color: rgb(60, 47, 47);"[39m
+        [36m>[39m
+          [36m<button[39m
+            [33mstyle[39m=[32m"position: fixed; top: 10px; left: 10px; z-index: 1000; background: rgb(107, 78, 49); color: rgb(244, 232, 193); border: 2px solid #3c2f2f; padding: 5px 10px; cursor: pointer; border-radius: 4px;"[39m
+          [36m>[39m
+            [0m☰[0m
+          [36m</button>[39m
+          [36m<div[39m
+            [33mstyle[39m=[32m"width: 0px; background: rgb(107, 78, 49); color: rgb(244, 232, 193); padding: 0px; overflow: hidden; transition: width 0.3s; position: fixed; height: 100%; z-index: 999; box-shadow: none;"[39m
+          [36m>[39m
+            [36m<h3[39m
+              [33mstyle[39m=[32m"margin: 0px 0px 10px 0px; text-align: center; font-size: 1.5em; text-shadow: 1px 1px 2px #3c2f2f;"[39m
+            [36m>[39m
+              [0mCampaigns[0m
+            [36m</h3>[39m
+            [36m<input[39m
+              [33mplaceholder[39m=[32m"Search Campaigns"[39m
+              [33mstyle[39m=[32m"width: 100%; padding: 8px; margin-bottom: 20px; border: 1px solid #3c2f2f; border-radius: 4px; background: rgb(249, 241, 228);"[39m
+              [33mtype[39m=[32m"text"[39m
+              [33mvalue[39m=[32m""[39m
+            [36m/>[39m
+            [36m<ul[39m
+              [33mstyle[39m=[32m"list-style: none; padding: 0px;"[39m
+            [36m/>[39m
+            [36m<button[39m
+              [33mstyle[39m=[32m"margin-top: 20px; width: 100%; background: rgb(138, 85, 34); color: rgb(244, 232, 193); border: 2px solid #3c2f2f; padding: 10px; cursor: pointer; border-radius: 4px;"[39m
+            [36m>[39m
+              [0mAdd Campaign[0m
+            [36m</button>[39m
+            [36m<button[39m
+              [33mstyle[39m=[32m"margin-top: 10px; width: 100%; background: rgb(150, 40, 27); color: rgb(244, 232, 193); border: 2px solid #3c2f2f; padding: 10px; cursor: pointer; border-radius: 4px;"[39m
+            [36m>[39m
+              [0mLogout[0m
+            [36m</button>[39m
+          [36m</div>[39m
+          [36m<div[39m
+            [33mstyle[39m=[32m"flex: 1; padding: 20px; margin-left: 0px; margin-right: 0px; transition: margin-left 0.3s, margin-right 0.3s; background: rgb(244, 232, 193); overflow-x: auto; white-space: nowrap;"[39m
+          [36m>[39m
+            [36m<h1[39m
+              [33mstyle[39m=[32m"color: rgb(60, 47, 47); margin: 0px 0px 20px 0px; text-align: center; font-size: 2em; text-shadow: 2px 2px 4px rgba(60, 47, 47, 0.3);"[39m
+            [36m>[39m
+              [0mD&D Campaign Manager[0m
+            [36m</h1>[39m
+            [36m<div[39m
+              [33mstyle[39m=[32m""[39m
+            [36m/>[39m
+          [36m</div>[39m
+        [36m</div>[39m
+      [36m</div>[39m
+    [36m</body>[39m
+
+    [0m [90m 292 |[39m       fireEvent[33m.[39mclick(screen[33m.[39mgetByText([32m'☰'[39m))[33m;[39m
+     [90m 293 |[39m       jest[33m.[39madvanceTimersByTime([35m5000[39m)[33m;[39m
+    [31m[1m>[22m[39m[90m 294 |[39m       fireEvent[33m.[39mclick(screen[33m.[39mgetByText([32m'Campaign 1'[39m))[33m;[39m
+     [90m     |[39m                              [31m[1m^[22m[39m
+     [90m 295 |[39m       jest[33m.[39madvanceTimersByTime([35m1000[39m)[33m;[39m
+     [90m 296 |[39m       fireEvent[33m.[39mclick(screen[33m.[39mgetByTestId([32m'delete-entity'[39m))[33m;[39m
+     [90m 297 |[39m       jest[33m.[39madvanceTimersByTime([35m5000[39m)[33m;[39m[0m
+
+      at Object.getElementError (node_modules/@testing-library/dom/dist/config.js:37:19)
+      at allQuery (node_modules/@testing-library/dom/dist/query-helpers.js:76:38)
+      at query (node_modules/@testing-library/dom/dist/query-helpers.js:52:17)
+      at getByText (node_modules/@testing-library/dom/dist/query-helpers.js:95:19)
+      at callback (src/App.test.js:294:30)
+      at callback (node_modules/@testing-library/react/dist/act-compat.js:48:24)
+      at actImplementation (node_modules/react/cjs/react.development.js:1081:22)
+      at node_modules/@testing-library/react/dist/act-compat.js:47:25
+      at Object.<anonymous> (src/App.test.js:291:14)
+
+  ● App › handles API errors
+
+    expect(jest.fn()).toHaveBeenCalledWith(...expected)
+
+    Expected: "Failed to fetch campaigns: Server Error"
+
+    Number of calls: 0
+
+    Ignored nodes: comments, script, style
+    [36m<html>[39m
+      [36m<head />[39m
+      [36m<body>[39m
+        [36m<div>[39m
+          [36m<div[39m
+            [33mstyle[39m=[32m"display: flex; min-height: 100vh; font-family: \"Cinzel\", serif; background: rgb(244, 232, 193); color: rgb(60, 47, 47);"[39m
+          [36m>[39m
+            [36m<button[39m
+              [33mstyle[39m=[32m"position: fixed; top: 10px; left: 10px; z-index: 1000; background: rgb(107, 78, 49); color: rgb(244, 232, 193); border: 2px solid #3c2f2f; padding: 5px 10px; cursor: pointer; border-radius: 4px;"[39m
+            [36m>[39m
+              [0m☰[0m
+            [36m</button>[39m
+            [36m<div[39m
+              [33mstyle[39m=[32m"width: 250px; background: rgb(107, 78, 49); color: rgb(244, 232, 193); padding: 40px 20px 20px 20px; overflow: hidden; transition: width 0.3s; position: fixed; height: 100%; z-index: 999; box-shadow: 2px 0 5px rgba(0,0,0,0.5);"[39m
+            [36m>[39m
+              [36m<h3[39m
+                [33mstyle[39m=[32m"margin: 0px 0px 10px 0px; text-align: center; font-size: 1.5em; text-shadow: 1px 1px 2px #3c2f2f;"[39m
+              [36m>[39m
+                [0mCampaigns[0m
+              [36m</h3>[39m
+              [36m<input[39m
+                [33mplaceholder[39m=[32m"Search Campaigns"[39m
+                [33mstyle[39m=[32m"width: 100%; padding: 8px; margin-bottom: 20px; border: 1px solid #3c2f2f; border-radius: 4px; background: rgb(249, 241, 228);"[39m
+                [33mtype[39m=[32m"text"[39m
+                [33mvalue[39m=[32m""[39m
+              [36m/>[39m
+              [36m<ul[39m
+                [33mstyle[39m=[32m"list-style: none; padding: 0px;"[39m
+              [36m/>[39m
+              [36m<button[39m
+                [33mstyle[39m=[32m"margin-top: 20px; width: 100%; background: rgb(138, 85, 34); color: rgb(244, 232, 193); border: 2px solid #3c2f2f; padding: 10px; cursor: pointer; border-radius: 4px;"[39m
+              [36m>[39m
+                [0mAdd Campaign[0m
+              [36m</button>[39m
+              [36m<button[39m
+                [33mstyle[39m=[32m"margin-top: 10px; width: 100%; background: rgb(150, 40, 27); color: rgb(244, 232, 193); border: 2px solid #3c2f2f; padding: 10px; cursor: pointer; border-radius: 4px;"[39m
+              [36m>[39m
+                [0mLogout[0m
+              [36m</button>[39m
+            [36m</div>[39m
+            [36m<div[39m
+              [33mstyle[39m=[32m"flex: 1; padding: 20px; margin-left: 250px; margin-right: 0px; transition: margin-left 0.3s, margin-right 0.3s; background: rgb(244, 232, 193); overflow-x: auto; white-space: nowrap;"[39m
+            [36m>[39m
+              [36m<h1[39m
+                [33mstyle[39m=[32m"color: rgb(60, 47, 47); margin: 0px 0px 20px 0px; text-align: center; font-size: 2em; text-shadow: 2px 2px 4px rgba(60, 47, 47, 0.3);"[39m
+              [36m>[39m
+                [0mD&D Campaign Manager[0m
+              [36m</h1>[39m
+              [36m<div[39m
+                [33mstyle[39m=[32m""[39m
+              [36m/>[39m
+            [36m</div>[39m
+          [36m</div>[39m
+        [36m</div>[39m
+      [36m</body>[39m
+    [36m</html>[39m
+
+    [0m [90m 322 |[39m
+     [90m 323 |[39m     [36mawait[39m waitFor(() [33m=>[39m {
+    [31m[1m>[22m[39m[90m 324 |[39m       expect(window[33m.[39malert)[33m.[39mtoHaveBeenCalledWith([32m'Failed to fetch campaigns: Server Error'[39m)[33m;[39m
+     [90m     |[39m                            [31m[1m^[22m[39m
+     [90m 325 |[39m     }[33m,[39m { timeout[33m:[39m [35m6000[39m })[33m;[39m
+     [90m 326 |[39m   }[33m,[39m [35m20000[39m)[33m;[39m
+     [90m 327 |[39m })[33m;[39m[0m
+
+      at callback (src/App.test.js:324:28)
+      at runWithExpensiveErrorDiagnosticsDisabled (node_modules/@testing-library/dom/dist/config.js:47:12)
+      at checkCallback (node_modules/@testing-library/dom/dist/wait-for.js:124:76)
+      at node_modules/@testing-library/dom/dist/wait-for.js:82:9
+
+Test Suites: 1 failed, 1 total
+Tests:       10 failed, 2 passed, 12 total
+Snapshots:   0 total
+Time:        3.292 s
+Ran all test suites.
+
+
