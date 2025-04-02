@@ -77,8 +77,10 @@ function App() {
     };
 
     const handleLogin = async () => {
+        console.log('Login clicked:', { username, password, rememberMe }); // Debug start
         try {
             const response = await apiCall('post', 'http://localhost:8000/api/login/', { username, password });
+            console.log('Login response:', response.data); // Debug success
             const newToken = response.data.access;
             setToken(newToken);
             setRefreshToken(response.data.refresh);
@@ -91,8 +93,9 @@ function App() {
                 localStorage.removeItem('username');
                 localStorage.removeItem('password');
             }
-            await fetchCampaigns(); // Fetch campaigns right after login
+            await fetchCampaigns();
         } catch (error) {
+            console.error('Login error:', error.response?.data || error.message); // Debug failure
             alert('Login failed: ' + (error.response?.data?.detail || 'Unknown error'));
             setToken('');
             setRefreshToken('');
